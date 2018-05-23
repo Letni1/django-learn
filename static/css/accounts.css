@@ -1,0 +1,18 @@
+body {
+  background-image: url(../img/paper.png);
+}
+@import url('https://fonts.googleapis.com/css?family=Megrim');
+.logo {
+    font-family: 'Megrim', cursive;
+    font-size: 45px;
+    color: #fff;
+}
+
+.logo a {
+  color: rgba(0,0,0,.9);
+}
+
+.logo a:hover,
+.logo a:active {
+  text-decoration: none;
+}

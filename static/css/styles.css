@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Megrim');
+.navbar-brand{
+    font-family: 'Megrim', cursive;
+    font-size: 29px;
+}
