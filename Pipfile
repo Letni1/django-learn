@@ -9,6 +9,11 @@ name = "pypi"
 
 gunicorn = "*"
 django-heroku = "*"
+python-decouple = "*"
+dj-database-url = "*"
+whitenoise = "*"
+django-widget-tweaks = "*"
+markdown = "*"
 
 
 [dev-packages]
