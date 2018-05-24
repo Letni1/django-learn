@@ -7,16 +7,9 @@ name = "pypi"
 
 [packages]
 
-"psycopg2-binary" = "*"
-markdown = "*"
-"psycopg2" = "*"
-django-widget-tweaks = "*"
+gunicorn = "*"
+django-heroku = "*"
 
 
 [dev-packages]
 
-
-
-[requires]
-
-python_version = "3.6"
