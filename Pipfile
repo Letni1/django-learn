@@ -1,0 +1,22 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+"psycopg2-binary" = "*"
+markdown = "*"
+"psycopg2" = "*"
+django-widget-tweaks = "*"
+
+
+[dev-packages]
+
+
+
+[requires]
+
+python_version = "3.6"
