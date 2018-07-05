@@ -1,20 +1,18 @@
 [[source]]
-
 url = "https://pypi.python.org/simple"
 verify_ssl = true
 name = "pypi"
 
-
 [packages]
-
-gunicorn = "*"
-django-heroku = "*"
-python-decouple = "*"
-dj-database-url = "*"
-whitenoise = "*"
-django-widget-tweaks = "*"
-markdown = "*"
-
+gunicorn = "==19.8.1"
+django-heroku = "==0.3.1"
+python-decouple = "==3.1"
+dj-database-url = "==0.5.0"
+whitenoise = "==3.3.1"
+django-widget-tweaks = "==1.4.2"
+"psycopg2" = "==2.7.4"
+pytz = "==2018.4"
+Markdown = "==2.6.11"
+Django = "==2.0.5"
 
 [dev-packages]
-
